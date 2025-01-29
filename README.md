@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# [Did One Guy Just Stop a Huge Cyberattack?](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html?searchResultPosition=5)
+
+I find this article interesting since it is discussing a possible attack on such a widely used system like Linux. Also, how much work must have gone into organizing this attack since the attacker needed to gain the trust of developers to get to the point of being able to insert their malicious code. It seems like a plan that had taken years to execute. I also find it interesting how even with their version control, the company is finding it difficult to identify the attacker as they had used an alias to make changes. It makes me wonder if there had been any obvious blind spots that the attacker took advantage of and how they were able to make changes without anyone knowing who they were.
